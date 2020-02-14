@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI_Selected_Switch_Assign\WAAPI_Selected_Switch_Assign\obj\Debug\netcoreapp3.1\WAAPI_Selected_Switch_Assign.pdb
